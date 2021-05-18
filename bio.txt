@@ -1,3 +1,5 @@
 Hoy hablaremos de obama
 
-primer dato: es presidente
+primer dato: fue presidente
+
+segundo dato: es de piel morena
