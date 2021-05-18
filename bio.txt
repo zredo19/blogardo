@@ -1,5 +1,7 @@
 Hoy hablaremos de obama
 
-primer dato: fue presidente
+primer dato: fue presidente de estados unidos
 
 segundo dato: es de piel morena
+
+tercer dato: tiene 59 años
