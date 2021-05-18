@@ -4,4 +4,8 @@ primer dato: fue presidente de estados unidos
 
 segundo dato: es de piel morena
 
-tercer dato: tiene 59 años
+tercer dato: tiene 59 años actualmente
+
+cuarto dato: su esposa es michelle obama
+
+quinto dato: nacio en hawaii
