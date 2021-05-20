@@ -1,5 +1,11 @@
 Hoy hablaremos de obama
 
-primer dato: es presidente
+primer dato: fue presidente de estados unidos
 
-el segundo dato lo haremos mañana
+segundo dato: es de piel morena
+
+tercer dato: tiene 59 años actualmente
+
+cuarto dato: su esposa es michelle obama
+
+quinto dato: nacio en hawaii
