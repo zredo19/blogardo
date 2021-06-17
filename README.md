@@ -1,4 +1,4 @@
-# blogardo
+## blogardo
 un blogardo epico para el curso de git y github de platzi
 
 En este blogardo idÓneo
@@ -9,8 +9,5 @@ e incluso diferencia entre definiciones
 como pueden ser
 vlog y blog
 ASHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 🖤
-*Creado por mí(Rodolfo)
-*No incluye ejemplos ni en windows, ni en linux, ni en mac
-*Disponible para todas las edadades
 
 ysi este README.md es un chiste.
