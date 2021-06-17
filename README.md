@@ -9,6 +9,5 @@ e incluso diferencia entre definiciones
 como pueden ser
 vlog y blog
 ASHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 🖤
-*Creado por mí(Rodolfo)
 
 ysi este README.md es un chiste.
