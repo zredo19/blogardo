@@ -10,6 +10,4 @@ como pueden ser
 vlog y blog
 ASHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 🖤
 
-
-
 ysi este README.md es un chiste.
