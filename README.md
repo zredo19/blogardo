@@ -9,5 +9,8 @@ e incluso diferencia entre definiciones
 como pueden ser
 vlog y blog
 ASHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 🖤
+*Creado por mí(Rodolfo)
+*No incluye ejemplos ni en windows, ni en linux, ni en mac
+*Disponible para todas las edadades
 
 ysi este README.md es un chiste.
